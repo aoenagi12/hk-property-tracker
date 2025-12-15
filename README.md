@@ -10,7 +10,8 @@ This project demonstrates an end-to-end data pipeline:
 
 ## Screenshot
 
-![Full Dashboard Overview](<img width="1920" height="3427" alt="screenshotsoverview" src="https://github.com/user-attachments/assets/72de5f72-216e-4414-b6e8-fad623ebfe84" />)
+![Full Dashboard Overview]()<img width="1920" height="3427" alt="screenshotsoverview" src="https://github.com/user-attachments/assets/9776f264-85f6-4995-8a71-cf3dbfc39bae" />
+
 *Full dashboard with all transactions loaded*
 
 
