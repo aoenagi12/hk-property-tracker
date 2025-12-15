@@ -1,23 +1,25 @@
-# Hong Kong Property Price Tracker (2023 Snapshot) 🏠
+# Hong Kong Property Price Tracker 🏠 (2023 Snapshot)
 
-Interactive dashboard analyzing a sample of ~300 residential property transactions in Hong Kong from 2023 (data scraped from Centaline, via Kaggle).
+Interactive Streamlit dashboard analyzing ~300 residential property transactions in Hong Kong from 2023.
 
-This project demonstrates an end-to-end data pipeline:
-- CSV → Pandas cleaning → SQLite database storage → Interactive web dashboard with filters and visualizations.
-
-## Live Demo
-*(Link will be added after deployment — coming in 5 minutes!)*
+## Features
+- Filter by district
+- View average prices and price per sqft trends (monthly)
+- Bar chart comparison across districts
+- Price distribution histogram
 
 ## Screenshot
-
 ![Full Dashboard Overview]()<img width="1920" height="3427" alt="screenshotsoverview" src="https://github.com/user-attachments/assets/9776f264-85f6-4995-8a71-cf3dbfc39bae" />
-
 *Full dashboard with all transactions loaded*
 
+## Technologies
+- Python
+- Pandas for data cleaning
+- SQLite database
+- Plotly for interactive charts
+- Streamlit for web app
 
-## How to Run Locally
+## Data Source
+Sample from Kaggle dataset "Hong Kong Housing Prices" (Centaline scrape, 2023 transactions).
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/hk-property-tracker.git
-   cd hk-property-tracker
+Built as a portfolio project to demonstrate end-to-end data pipeline: CSV → SQL → interactive dashboard.
