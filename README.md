@@ -1,18 +1,24 @@
-# Hong Kong Property Price Tracker 🏠
+# Hong Kong Property Price Tracker 🏠 (2023 Snapshot)
 
-Interactive dashboard analyzing real Kowloon property transactions (2014–2020).
+Interactive Streamlit dashboard analyzing ~300 residential property transactions in Hong Kong from 2023.
 
 ## Features
-- Filter by estate and year
-- Average prices, price per sqft trends
-- Built with Python, Pandas, SQLite, Plotly, Streamlit
+- Filter by district
+- View average prices and price per sqft trends (monthly)
+- Bar chart comparison across districts
+- Price distribution histogram
 
 ## Live Demo
-[Link here after deploy]
+[Link after Streamlit deploy]
 
-## How to Run
-1. pip install -r requirements.txt
-2. python load_to_db.py
-3. streamlit run app.py
+## Technologies
+- Python
+- Pandas for data cleaning
+- SQLite database
+- Plotly for interactive charts
+- Streamlit for web app
 
-Data: Public dataset from 28Hse transactions.# hk-property-tracker
+## Data Source
+Sample from Kaggle dataset "Hong Kong Housing Prices" (Centaline scrape, 2023 transactions).
+
+Built as a portfolio project to demonstrate end-to-end data pipeline: CSV → SQL → interactive dashboard.
