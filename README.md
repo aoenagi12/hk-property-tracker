@@ -8,9 +8,6 @@ Interactive Streamlit dashboard analyzing ~300 residential property transactions
 - Bar chart comparison across districts
 - Price distribution histogram
 
-## Live Demo
-[Link after Streamlit deploy]
-
 ## Technologies
 - Python
 - Pandas for data cleaning
