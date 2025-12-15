@@ -1,0 +1,300 @@
+﻿,date,address,price,changes,saleable_area(ft^2),unit_rate,district,Tower,Flat,Phase,Block,Rental,Public Housing,floor
+0,9/3/2023,"The Long Beach, Tower 7, Middle Floor, Flat D",33000,--,816,40,Kowloon Kowloon City District,7,D,,,TRUE,FALSE,13
+1,9/3/2023,"One Kai Tak, II, Tower 3, Upper Floor, Flat H",15800,--,375,42,Kowloon Kowloon City District,3,H,,,TRUE,FALSE,22
+2,8/3/2023,"Sky Tower, Block 1, Lower Floor, Flat B",18800,--,520,36,Kowloon Kowloon City District,,B,,1,TRUE,FALSE,7
+3,8/3/2023,"Hampton Place, Tower 2, Upper Floor, Flat F",17000,--,429,40,Kowloon Kowloon City District,2,F,,,TRUE,FALSE,22
+4,8/3/2023,"Skypark, Upper Floor, Flat A5",18000,--,407,44,Kowloon Kowloon City District,,A,,,TRUE,FALSE,22
+5,8/3/2023,"Eltanin Square Mile, Tower 1, Upper Floor, Flat G",14300,--,255,56,Kowloon Kowloon City District,1,G,,,TRUE,FALSE,22
+6,8/3/2023,"Cetus Square Mile, Tower 1, Lower Floor, Flat G",12000,--,194,62,Kowloon Kowloon City District,1,G,,,TRUE,FALSE,7
+7,8/3/2023,"Metro Harbour View, Phase 2, Tower 10, Upper Floor, Flat B",6680000,--,423,15792,Kowloon Kowloon City District,10,B,2,,FALSE,FALSE,22
+8,8/3/2023,"Metro Harbour View, Phase 1, Tower 3, Upper Floor, Flat B",16000,--,386,41,Kowloon Kowloon City District,3,B,1,,TRUE,FALSE,22
+9,8/3/2023,"Celestial Heights, Phase 2, 22 Celestial Avenue, Middle Floor, No. 22",38000,--,"1,155",33,Kowloon Kowloon City District,,,2,,TRUE,FALSE,13
+10,8/3/2023,"The Coronation, Tower 6, Middle Floor, Flat A",18500,--,466,40,Kowloon Kowloon City District,6,A,,,TRUE,FALSE,13
+11,8/3/2023,"Residence Bel-Air, Phase 6 Bel-Air No. 8, Tower 5, Middle Floor, Flat C",51000,--,"1,029",50,Kowloon Kowloon City District,5,C,6,,TRUE,FALSE,13
+12,8/3/2023,"South Horizons, Phase 4 The Oasis, Cambridge Court (Block 33A), Lower Floor, Flat F",20000,--,652,31,Kowloon Kowloon City District,,F,4,33,TRUE,FALSE,7
+13,8/3/2023,"One Beacon Hill, Phase 1, Tower 3, Lower Floor, Flat B",76000000,--,"2,190",34703,Kowloon Kowloon City District,3,B,1,,FALSE,FALSE,7
+14,8/3/2023,"Whampoa Garden, Phase 7 Cotton Tree Mansions, Block 1, 12/F, Flat B",12070000,--,761,15857,Kowloon Kowloon City District,,B,7,1,FALSE,FALSE,12
+15,8/3/2023,"Cheong Fu Mansion, 12/F, Flat B",4400000,--,320,13717,Kowloon Kowloon City District,,B,,,FALSE,FALSE,12
+16,8/3/2023,"Sky Tower, Block 3, 29/F, Flat B",8600000,--,519,16541,Kowloon Kowloon City District,,B,,3,FALSE,FALSE,29
+17,8/3/2023,"Prosperous Garden, Block 3, 24/F, Flat G",10300000,--,699,14721,Kowloon Kowloon City District,,G,,3,FALSE,FALSE,24
+18,8/3/2023,"No. 8 Waterloo Road, Block 1, 19/F, Flat F",7380000,--,463,15907,Kowloon Kowloon City District,,F,,1,FALSE,FALSE,19
+19,8/3/2023,"Harbour Place, Tower 4, 30/F, Flat G",11150000,--,593,18799,Kowloon Kowloon City District,4,G,,,FALSE,FALSE,30
+20,8/3/2023,"Hampton Place, Tower 3, 11/F, Flat D",7580000,--,501,15111,Kowloon Kowloon City District,3,D,,,FALSE,FALSE,11
+21,8/3/2023,"Chi Fu Fa Yuen, Fu Yip Yuen (Block H-9), 23/F, Flat E",6000000,--,439,13662,Kowloon Kowloon City District,,E,,H,FALSE,FALSE,23
+22,8/3/2023,"Hip Fai Building, 8/F, Flat B",4110000,--,289,14194,Kowloon Kowloon City District,,B,,,FALSE,FALSE,8
+23,8/3/2023,"Residence Bel-Air, Phase 1, Tower 1, 38/F, Flat C",15980000,--,617,25863,Kowloon Kowloon City District,1,C,1,,FALSE,FALSE,38
+24,8/3/2023,"Pak Po Mansions, 9/F, Flat E",6500000,--,689,9420,Kowloon Kowloon City District,,E,,,FALSE,FALSE,9
+25,8/3/2023,"Laguna Verde, Phase 4(4A) Laguna Grande, Tower 17, 6/F, Flat C",22800000,--,"1,101",20705,Kowloon Kowloon City District,17,C,4,,FALSE,FALSE,6
+26,8/3/2023,"Laguna Verde, Phase 4(4A) Laguna Grande, Tower 17, 15/F, Flat C",21680000,--,"1,100",19707,Kowloon Kowloon City District,17,C,4,,FALSE,FALSE,15
+27,8/3/2023,"Grand Waterfront, Tower 2, 46/F, Flat A",7300000,--,367,19888,Kowloon Kowloon City District,2,A,,,FALSE,FALSE,46
+28,8/3/2023,"Ngan Hon Mansion, 9/F, Flat B",4350000,--,365,11886,Kowloon Kowloon City District,,B,,,FALSE,FALSE,9
+29,8/3/2023,"Aberdeen Centre, Kong Hing Court (Block J), 19/F, Flat 4",7800000,--,558,13962,Kowloon Kowloon City District,,4,,J,FALSE,FALSE,19
+30,8/3/2023,"Whampoa Garden, Phase 11 Bauhinia Mansions, Block 13, 13/F, Flat G",9000000,--,639,14076,Kowloon Kowloon City District,,G,11,13,FALSE,FALSE,13
+31,8/3/2023,"Charming Garden, Block 3, 2/F, Flat D",8060000,--,592,13614,Kowloon Kowloon City District,,D,,3,FALSE,FALSE,2
+32,8/3/2023,"Whampoa Garden, Phase 7 Cotton Tree Mansions, Block 1, 12/F, Flat E",11000000,--,763,14413,Kowloon Kowloon City District,,E,7,1,FALSE,FALSE,12
+33,8/3/2023,"City 151, 9/F, Flat C",5700000,--,432,13172,Kowloon Kowloon City District,,C,,,FALSE,FALSE,9
+34,8/3/2023,"Fair Way Garden, Block B, 16/F, Flat 1",10980000,--,820,13386,Kowloon Kowloon City District,,1,,B,FALSE,FALSE,16
+35,8/3/2023,"Kingsgate, 10/F, Flat A",7280000,--,524,13887,Kowloon Kowloon City District,,A,,,FALSE,FALSE,10
+36,8/3/2023,"Hung Fuk Court, Hung Chak House (Block B), 29/F, Flat 1",4290000,--,558,7675,Kowloon Kowloon City District,,1,,B,FALSE,FALSE,29
+37,7/3/2023,"H Bonaire, Middle Floor, Flat A",25000,--,675,37,Kowloon Kowloon City District,,A,,,TRUE,FALSE,13
+38,7/3/2023,"L Living 23, Upper Floor, Flat C",15200,--,316,48,Kowloon Kowloon City District,,C,,,TRUE,FALSE,22
+39,7/3/2023,"Monaco, Phase 1, Tower 2A, Middle Floor, Flat C",22000,--,551,40,Kowloon Kowloon City District,2,C,1,,TRUE,FALSE,13
+40,7/3/2023,"Celestial Heights, Phase 2, 11 Celestial Avenue, Lower Floor, No. 11",48000,--,"1,592",30,Kowloon Kowloon City District,,,2,,TRUE,FALSE,7
+41,7/3/2023,"Monaco, Phase 2 Grande Monaco, Tower 1B, Middle Floor, Flat C",20000,--,499,40,Kowloon Kowloon City District,1,C,2,,TRUE,FALSE,13
+42,7/3/2023,"Metro Harbour View, Phase 2, Tower 5, Lower Floor, Flat E",6020000,--,347,17349,Kowloon Kowloon City District,5,E,2,,FALSE,FALSE,7
+43,7/3/2023,"The Harbourside, Tower 1, Upper Floor, Flat E",24800000,--,818,30318,Kowloon Kowloon City District,1,E,,,FALSE,FALSE,22
+44,7/3/2023,"Baguio Villa, Block 42, Upper Floor, Block 42",75000,--,"2,079",36,Kowloon Kowloon City District,,,,42,TRUE,FALSE,22
+45,7/3/2023,"Dragon View, Block 1, 6/F, Flat D",7200000,153%,561,12834,Kowloon Kowloon City District,,D,,1,FALSE,FALSE,6
+46,7/3/2023,"Cosmopolitan Estates, Tai Wai Building (Block L), 3/F, Flat 7",4300000,--,425,10118,Kowloon Kowloon City District,,7,,L,FALSE,FALSE,3
+47,7/3/2023,"United Mansion, Block A, 7/F, Flat 5",5550000,--,798,6948,Kowloon Kowloon City District,,5,,A,FALSE,FALSE,7
+48,7/3/2023,"Grand Waterfront, Tower 3, 11/F, Flat H",6000000,64%,360,16667,Kowloon Kowloon City District,3,H,,,FALSE,FALSE,11
+49,7/3/2023,"Greenfield Garden, Block 2, 18/F, Flat F",4850000,39%,311,15595,Kowloon Kowloon City District,,F,,2,FALSE,FALSE,18
+50,7/3/2023,"United Building, Lung To Court, 1/F, Flat 3",3040000,--,302,10066,Kowloon Kowloon City District,,3,,,FALSE,FALSE,1
+51,7/3/2023,"South Horizons, Phase 4 The Oasis, Eaton Court (Block 26), 28/F, Flat A",7500000,275%,519,14451,Kowloon Kowloon City District,,A,4,26,FALSE,FALSE,28
+53,7/3/2023,"Fair Way Garden, Block C, 21/F, Flat 4",6280000,5%,352,17841,Kowloon Kowloon City District,,4,,C,FALSE,FALSE,21
+54,7/3/2023,"Baker Circle One, Phase 2, Baker Circle  Euston, 19/F, Flat C",6520000,--,278,23442,Kowloon Kowloon City District,,C,2,,FALSE,FALSE,19
+55,7/3/2023,"June Garden, Block 4, 12/F, Flat G",5420000,--,374,14492,Kowloon Kowloon City District,,G,,4,FALSE,FALSE,12
+56,7/3/2023,"Cherry Mansion, 14/F, Flat X (No. 39A)",2600000,--,326,7975,Kowloon Kowloon City District,,X,,,FALSE,FALSE,14
+57,7/3/2023,"Park Avenue, Central Park, Tower 3, 47/F, Flat H",9680000,89%,597,16214,Kowloon Kowloon City District,3,H,,,FALSE,FALSE,47
+58,7/3/2023,"Aberdeen Centre, Hoi Wu Court (Block D), 6/F, Flat 5",7050000,--,572,12325,Kowloon Kowloon City District,,5,,D,FALSE,FALSE,6
+59,7/3/2023,"Man Cheong Building, 8/F, Flat 47",10500000,19%,880,11932,Kowloon Kowloon City District,,47,,,FALSE,FALSE,8
+60,7/3/2023,"Yan On Building, Block B, 12/F, Flat B6",10200000,79%,859,11874,Kowloon Kowloon City District,,B,,B,FALSE,FALSE,12
+61,7/3/2023,"Laguna Verde, Phase 4(4A) Laguna Grande, Tower 18, 3/F, Flat E",15000000,82%,910,16484,Kowloon Kowloon City District,18,E,4,,FALSE,FALSE,3
+62,7/3/2023,"The Quinn  Square Mile, Tower 1, 9/F, Flat J",5810000,--,265,21932,Kowloon Kowloon City District,1,J,,,FALSE,FALSE,9
+63,7/3/2023,"The Quinn  Square Mile, Tower 1, 7/F, Flat J",5770000,--,265,21776,Kowloon Kowloon City District,1,J,,,FALSE,FALSE,7
+66,7/3/2023,"Ka Woo Building, 8/F, Flat A",4950000,--,472,10475,Kowloon Kowloon City District,,A,,,FALSE,FALSE,8
+67,7/3/2023,"Kowloon Tong Mansion, 1/F, No. 110",12880000,--,"1,163",11075,Kowloon Kowloon City District,,,,,FALSE,FALSE,1
+68,7/3/2023,"Kam Tong Building, 8/F, Flat 13",3600000,163%,347,10375,Kowloon Kowloon City District,,13,,,FALSE,FALSE,8
+69,7/3/2023,"The Quinn  Square Mile, Tower 2, 5/F, Flat H",6000000,--,265,22624,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,5
+70,7/3/2023,"Mandarin Court, Block 1, 3/F, Flat C",6500000,-26%,837,7766,Kowloon Kowloon City District,,C,,1,FALSE,FALSE,3
+71,7/3/2023,"Pano Harbour, Tower 6, 23/F, Flat B",25170000,--,781,32230,Kowloon Kowloon City District,6,B,,,FALSE,FALSE,23
+72,7/3/2023,"Pano Harbour, Tower 6, 25/F, Flat B",25340000,--,781,32445,Kowloon Kowloon City District,6,B,,,FALSE,FALSE,25
+74,7/3/2023,"Chi Fu Fa Yuen, Fu Yan Yuen (Block H-8), 13/F, Flat G",7700000,270%,588,13095,Kowloon Kowloon City District,,G,,H,FALSE,FALSE,13
+76,7/3/2023,"One Kai Tak, II, Tower 5, 12/F, Flat J",11780000,10%,561,20998,Kowloon Kowloon City District,5,J,,,FALSE,FALSE,12
+77,7/3/2023,"The Regalia, Tower 5, 1/F, Flat B",20300000,7%,"1,026",19786,Kowloon Kowloon City District,5,B,,,FALSE,FALSE,1
+78,7/3/2023,"Sun Ming Building, 20/F, Flat A",3830000,1%,230,16643,Kowloon Kowloon City District,,A,,,FALSE,FALSE,20
+79,7/3/2023,"Celestial Heights, Phase 2, 15 Celestial Avenue, 21/F, No. 15",26000000,19%,"1,567",16592,Kowloon Kowloon City District,,,2,,FALSE,FALSE,21
+80,7/3/2023,"June Garden, Block 3, 8/F, Flat C",5350000,--,374,14305,Kowloon Kowloon City District,,C,,3,FALSE,FALSE,8
+81,7/3/2023,"Metro Harbour View, Phase 1, Tower 4, 14/F, Flat A",6080000,1%,321,18941,Kowloon Kowloon City District,4,A,1,,FALSE,FALSE,14
+82,7/3/2023,"Boundary Crest, 9/F, Flat C",8700000,--,626,13887,Kowloon Kowloon City District,,C,,,FALSE,FALSE,9
+83,7/3/2023,"Lee Shing Mansion, 4/F, Flat G",5150000,-15%,600,8583,Kowloon Kowloon City District,,G,,,FALSE,FALSE,4
+85,6/3/2023,"Chi Fu Fa Yuen, Fu Wing Yuen (Block H-19), Lower Floor, Flat F",6780000,--,588,11531,Kowloon Kowloon City District,,F,,H,FALSE,FALSE,7
+86,6/3/2023,"Baguio Villa, Block 32, Middle Floor, Block 32",59000,--,"1,296",46,Kowloon Kowloon City District,,,,32,TRUE,FALSE,13
+87,6/3/2023,"Jubilant Place, Tower 6, Lower Floor, Flat E",9300000,--,777,11969,Kowloon Kowloon City District,6,E,,,FALSE,FALSE,7
+88,6/3/2023,"Grand Austin, Tower 2A, Middle Floor, Flat D",21500000,--,889,24184,Kowloon Kowloon City District,2,D,,,FALSE,FALSE,13
+89,6/3/2023,"Belvedere Heights, Lower Floor, Flat E",12800000,--,"1,109",11542,Kowloon Kowloon City District,,E,,,FALSE,FALSE,7
+90,6/3/2023,"Laguna Verde, Phase 3 Costa Del Sol, Tower 12, Lower Floor, Flat D",10280000,--,578,17785,Kowloon Kowloon City District,12,D,3,,FALSE,FALSE,7
+91,6/3/2023,"Aquila.Square Mile, Tower 1, Upper Floor, Flat E",15000,--,256,59,Kowloon Kowloon City District,1,E,,,TRUE,FALSE,22
+92,6/3/2023,"Peninsula Heights, Block B, Middle Floor, Flat 3",17980000,--,"1,101",16331,Kowloon Kowloon City District,,3,,B,FALSE,FALSE,13
+93,6/3/2023,"Charming Garden, Block 1, Lower Floor, Flat B",5300000,--,592,8953,Kowloon Kowloon City District,,B,,1,FALSE,FALSE,7
+94,6/3/2023,"The Quinn  Square Mile, Tower 2, 7/F, Flat D",4960000,--,208,23839,Kowloon Kowloon City District,2,D,,,FALSE,FALSE,7
+95,6/3/2023,"The Quinn  Square Mile, Tower 2, 16/F, Flat D",5200000,--,208,25000,Kowloon Kowloon City District,2,D,,,FALSE,FALSE,16
+96,6/3/2023,"The Vantage, 18/F, Flat A1",5500000,-14%,276,19928,Kowloon Kowloon City District,,A,,,FALSE,FALSE,18
+97,6/3/2023,"Metro Harbour View, Phase 1, Tower 1, 34/F, Flat E",6450000,47%,344,18750,Kowloon Kowloon City District,1,E,1,,FALSE,FALSE,34
+98,6/3/2023,"Peace Mansion, 23/F, Flat B",5510000,-4%,299,18428,Kowloon Kowloon City District,,B,,,FALSE,FALSE,23
+99,6/3/2023,"Kwun Hei Court, 21/F, Flat 17",4150000,--,429,9674,Kowloon Kowloon City District,,17,,,FALSE,FALSE,21
+100,6/3/2023,"Tak Kei Building, 9/F, Flat A",3820000,20%,259,14749,Kowloon Kowloon City District,,A,,,FALSE,FALSE,9
+101,6/3/2023,"Hop Yee Building, 10/F, No. 63",5200000,--,418,12440,Kowloon Kowloon City District,,,,,FALSE,FALSE,10
+102,6/3/2023,"The Victoria Towers, Tower 1, 65/F, Flat F",13600000,111%,541,25139,Kowloon Kowloon City District,1,F,,,FALSE,FALSE,65
+103,6/3/2023,"The Quinn  Square Mile, Tower 1, 15/F, Flat A",10580000,--,447,23676,Kowloon Kowloon City District,1,A,,,FALSE,FALSE,15
+104,6/3/2023,"Peace Building, 20/F, Flat A1",5500000,--,466,11803,Kowloon Kowloon City District,,A,,,FALSE,FALSE,20
+105,6/3/2023,"The Hermitage, Tower 6, 12/F, Flat C",16380000,88%,757,21638,Kowloon Kowloon City District,6,C,,,FALSE,FALSE,12
+106,6/3/2023,"Mercantile House, 4/F, Flat D",5100000,--,652,7822,Kowloon Kowloon City District,,D,,,FALSE,FALSE,4
+107,6/3/2023,"Windsor Mansion, 6/F, Flat A",9600000,23%,896,10714,Kowloon Kowloon City District,,A,,,FALSE,FALSE,6
+108,6/3/2023,"Imperial Garden, 9/F, Flat C",14800000,143%,994,14889,Kowloon Kowloon City District,,C,,,FALSE,FALSE,9
+110,6/3/2023,"Aquila.Square Mile, Tower 2, 28/F, Flat C",7390000,--,260,28426,Kowloon Kowloon City District,2,C,,,FALSE,FALSE,28
+112,6/3/2023,"Kai Long Court, Block B, 10/F, Flat 7",6800000,--,446,15247,Kowloon Kowloon City District,,7,,B,FALSE,FALSE,10
+113,6/3/2023,"Timber House, 9/F, Flat A3",6250000,-12%,272,22978,Kowloon Kowloon City District,,A,,,FALSE,FALSE,9
+114,6/3/2023,"Charming Garden, Block 15, 18/F, Flat K",3880000,--,431,9002,Kowloon Kowloon City District,,K,,15,FALSE,FALSE,18
+115,6/3/2023,"Merlin Court, 1/F, Flat D",9500000,1%,685,13869,Kowloon Kowloon City District,,D,,,FALSE,FALSE,1
+116,6/3/2023,"Metro Harbour View, Phase 1, Tower 3, 42/F, Flat G",8600000,57%,539,15955,Kowloon Kowloon City District,3,G,1,,FALSE,FALSE,42
+117,6/3/2023,"One Silversea, Tower 5, 19/F, Flat A",25800000,79%,963,26791,Kowloon Kowloon City District,5,A,,,FALSE,FALSE,19
+118,6/3/2023,"Sorrento, Phase 2, Block 2, 59/F, Flat B",23800000,140%,919,25898,Kowloon Kowloon City District,,B,2,2,FALSE,FALSE,59
+119,6/3/2023,"The Coronation, Tower 2, 25/F, Flat D",10880000,-15%,605,17983,Kowloon Kowloon City District,2,D,,,FALSE,FALSE,25
+120,6/3/2023,"Whampoa Garden, Phase 3 Willow Mansions, Block 8, 13/F, Flat H",12000000,179%,853,14068,Kowloon Kowloon City District,,H,3,8,FALSE,FALSE,13
+121,6/3/2023,"Laguna Verde, Phase 4(4A) Laguna Grande, Tower 18, 9/F, Flat D",23000000,199%,"1,096",20985,Kowloon Kowloon City District,18,D,4,,FALSE,FALSE,9
+122,6/3/2023,"Kensington Plaza, 18/F, Flat C",6800000,305%,477,14256,Kowloon Kowloon City District,,C,,,FALSE,FALSE,18
+123,6/3/2023,"Metro Harbour View, Phase 2, Tower 5, 34/F, Flat A",6180000,160%,368,16793,Kowloon Kowloon City District,5,A,2,,FALSE,FALSE,34
+124,6/3/2023,"One Kai Tak, II, Tower 5, 17/F, Flat G",17800000,4%,799,22278,Kowloon Kowloon City District,5,G,,,FALSE,FALSE,17
+125,6/3/2023,"Island Harbourview, Tower 10, 25/F, Flat G",8780000,99%,457,19212,Kowloon Kowloon City District,10,G,,,FALSE,FALSE,25
+126,6/3/2023,"Pano Harbour, Tower 6, 21/F, Flat B",24940000,--,781,31930,Kowloon Kowloon City District,6,B,,,FALSE,FALSE,21
+127,6/3/2023,"Pano Harbour, Tower 6, 21/F, Flat C",29720000,--,903,32917,Kowloon Kowloon City District,6,C,,,FALSE,FALSE,21
+128,6/3/2023,"Pano Harbour, Tower 6, 29/F, Flat A",34780000,--,950,36606,Kowloon Kowloon City District,6,A,,,FALSE,FALSE,29
+129,6/3/2023,"Pano Harbour, Tower 6, 31/F, Flat A",37110000,--,950,39061,Kowloon Kowloon City District,6,A,,,FALSE,FALSE,31
+130,6/3/2023,"Pano Harbour, Tower 6, 32/F, Flat A",35390000,--,950,37254,Kowloon Kowloon City District,6,A,,,FALSE,FALSE,32
+131,6/3/2023,"Grandview Garden, Block D, 5/F, Flat H",5050000,321%,354,14266,Kowloon Kowloon City District,,H,,D,FALSE,FALSE,5
+132,6/3/2023,"Carmel On The Hill, 8/F, Flat C",8080000,174%,482,16763,Kowloon Kowloon City District,,C,,,FALSE,FALSE,8
+133,6/3/2023,"Oasis Kai Tak, Tower 5, 19/F, Flat D",6800000,-10%,365,18630,Kowloon Kowloon City District,5,D,,,FALSE,FALSE,19
+134,6/3/2023,"The Quinn  Square Mile, Tower 2, 12/F, Flat N",6020000,--,259,23239,Kowloon Kowloon City District,2,N,,,FALSE,FALSE,12
+135,6/3/2023,"Hang Shan Court, 11/F, Flat 1",4500000,10%,336,13393,Kowloon Kowloon City District,,1,,,FALSE,FALSE,11
+136,6/3/2023,"Chi Fu Fa Yuen, Fu Yip Yuen (Block H-9), 17/F, Flat A",6100000,102%,439,13895,Kowloon Kowloon City District,,A,,H,FALSE,FALSE,17
+137,6/3/2023,"South Horizons, Phase 1, Hoi Wan Court (Block 4), 14/F, Flat A",10750000,97%,722,14889,Kowloon Kowloon City District,,A,1,4,FALSE,FALSE,14
+138,6/3/2023,"Wah Wai Mansion, 10/F, Flat A",4230000,--,321,13178,Kowloon Kowloon City District,,A,,,FALSE,FALSE,10
+139,6/3/2023,"June Garden, Block 2, 2/F, Flat H",4680000,--,374,12513,Kowloon Kowloon City District,,H,,2,FALSE,FALSE,2
+140,6/3/2023,"Cosmopolitan Estates, Tai Yau Building (Block E), 12/F, Flat 9",3690000,--,320,11531,Kowloon Kowloon City District,,9,,E,FALSE,FALSE,12
+141,6/3/2023,"Cosmopolitan Estates, Tai Yau Building (Block E), 6/F, Flat 2",3700000,64%,326,11350,Kowloon Kowloon City District,,2,,E,FALSE,FALSE,6
+142,6/3/2023,"Ultima, Phase 2, Tower 1, 17/F, Flat A",86100000,--,"1,910",45078,Kowloon Kowloon City District,1,A,2,,FALSE,FALSE,17
+143,5/3/2023,"Eltanin Square Mile, Tower 2, Lower Floor, Flat A",17000,--,390,44,Kowloon Kowloon City District,2,A,,,TRUE,FALSE,7
+144,5/3/2023,"South Horizons, Phase 1, Hoi Wan Court (Block 4), Upper Floor, Flat A",23800,--,722,33,Kowloon Kowloon City District,,A,1,4,TRUE,FALSE,22
+145,4/3/2023,"One Victory, Middle Floor, Flat B",17500,--,455,38,Kowloon Kowloon City District,,B,,,TRUE,FALSE,13
+146,4/3/2023,"Cetus Square Mile, Tower 2, Lower Floor, Flat G",11000,--,194,57,Kowloon Kowloon City District,2,G,,,TRUE,FALSE,7
+147,4/3/2023,"Laguna Verde, Phase 5(4B) Ocean Vista, Tower 22, Upper Floor, Flat D",18000,--,540,33,Kowloon Kowloon City District,22,D,5,,TRUE,FALSE,22
+148,4/3/2023,"Laguna Verde, Phase 5(4B) Ocean Vista, Tower 22, Upper Floor, Flat E",18000,--,543,33,Kowloon Kowloon City District,22,E,5,,TRUE,FALSE,22
+149,4/3/2023,"Metro Harbour View, Phase 1, Tower 4, Middle Floor, Flat E",14500,--,340,43,Kowloon Kowloon City District,4,E,1,,TRUE,FALSE,13
+150,3/3/2023,"Park Ivy, Upper Floor, Flat A",5630000,--,322,17484,Kowloon Kowloon City District,,A,,,FALSE,FALSE,22
+151,3/3/2023,"Victoria Skye, Ocean Waves Tower 3, Upper Floor, Flat C",7500000,--,336,22321,Kowloon Kowloon City District,3,C,,,FALSE,FALSE,22
+152,3/3/2023,"One Elegance, Middle Floor, Flat B",6780000,--,453,14967,Kowloon Kowloon City District,,B,,,FALSE,FALSE,13
+153,3/3/2023,"Dragon View, Block 1, Upper Floor, Flat A",21000,--,625,34,Kowloon Kowloon City District,,A,,1,TRUE,FALSE,22
+154,3/3/2023,"Park Avenue, Phase 1, Tower 6, Upper Floor, Flat G",10000000,--,466,21459,Kowloon Kowloon City District,6,G,1,,FALSE,FALSE,22
+155,3/3/2023,"Park Avenue, Phase 1, Tower 9, Lower Floor, Flat D",16280000,--,737,22090,Kowloon Kowloon City District,9,D,1,,FALSE,FALSE,7
+156,3/3/2023,"Whampoa Garden, Phase 12 Bamboo Mansions, Block 5, Lower Floor, Flat H",9700000,--,729,13306,Kowloon Kowloon City District,,H,12,5,FALSE,FALSE,7
+157,3/3/2023,"Hampton Place, Tower 3, Lower Floor, Flat C",8380000,--,446,18789,Kowloon Kowloon City District,3,C,,,FALSE,FALSE,7
+158,3/3/2023,"Wong Teck Building, 2/F, Flat C",4590000,--,368,12476,Kowloon Kowloon City District,,C,,,FALSE,FALSE,2
+159,3/3/2023,"Wong Teck Building, 2/F, Flat K",3660000,--,294,12446,Kowloon Kowloon City District,,K,,,FALSE,FALSE,2
+160,3/3/2023,"Harbour Place, Tower 3, 7/F, Flat F",7780000,-3%,432,18009,Kowloon Kowloon City District,3,F,,,FALSE,FALSE,7
+161,3/3/2023,"Lei Tung Estate, Tung Yat House, 27/F, Flat 24",2820000,--,381,7402,Kowloon Kowloon City District,,24,,,FALSE,TRUE,27
+162,3/3/2023,"Lei Tung Estate, Tung Ping House, 33/F, Flat 9",2880000,--,381,7559,Kowloon Kowloon City District,,9,,,FALSE,TRUE,33
+163,3/3/2023,"One Elegance, 10/F, Flat A",6050000,39%,453,13355,Kowloon Kowloon City District,,A,,,FALSE,FALSE,10
+164,3/3/2023,"One Victoria, Tower 2B, 15/F, Flat A",16460000,--,656,25096,Kowloon Kowloon City District,2,A,,,FALSE,FALSE,15
+166,3/3/2023,"Kai Wan Building, 16/F, Flat B",3780000,--,228,16579,Kowloon Kowloon City District,,B,,,FALSE,FALSE,16
+167,3/3/2023,"Ultima, Phase 2, Tower 1, 16/F, Flat A",85720000,--,"1,910",44880,Kowloon Kowloon City District,1,A,2,,FALSE,FALSE,16
+168,3/3/2023,"K Summit, Tower 1A, 1/F, Flat B",9400000,-5%,443,21219,Kowloon Kowloon City District,1,B,,,FALSE,FALSE,1
+169,3/3/2023,"Charming Garden, Block 12, 20/F, Flat F",4800000,--,484,9917,Kowloon Kowloon City District,,F,,12,FALSE,FALSE,20
+170,3/3/2023,"Sham Wan Towers, Block 3, 46/F, Flat E",9200000,36%,515,17864,Kowloon Kowloon City District,,E,,3,FALSE,FALSE,46
+171,3/3/2023,"37 Repulse Bay Road, Tower 2, 16/F, Flat A",52000000,99%,"1,199",43369,Kowloon Kowloon City District,2,A,,,FALSE,FALSE,16
+172,3/3/2023,"Newish Mansion, 8/F, Flat A",4800000,--,360,13333,Kowloon Kowloon City District,,A,,,FALSE,FALSE,8
+173,3/3/2023,"29A-29B Nga Tsin Wai Road, 5/F, No. 29A (Flat A)",6370000,33%,531,11996,Kowloon Kowloon City District,,A,,,FALSE,FALSE,5
+174,3/3/2023,"Classic Mansion, 21/F, Flat A",5300000,190%,325,16308,Kowloon Kowloon City District,,A,,,FALSE,FALSE,21
+175,3/3/2023,"Charming Garden, Block 12, 23/F, Flat A",6180000,--,592,10439,Kowloon Kowloon City District,,A,,12,FALSE,FALSE,23
+176,3/3/2023,"Island Harbourview, Tower 3, 25/F, Flat A",13050000,208%,698,18696,Kowloon Kowloon City District,3,A,,,FALSE,FALSE,25
+177,3/3/2023,"The Southside, Phase 1 Southland, Tower 2 (2B), 10/F, Flat C",21530000,--,639,33689,Kowloon Kowloon City District,2,C,1,,FALSE,FALSE,10
+178,3/3/2023,"Kai Long Court, Block B, 10/F, Flat 8",3850000,--,287,13415,Kowloon Kowloon City District,,8,,B,FALSE,FALSE,10
+179,3/3/2023,"Park Avenue, Phase 1, Tower 7, 50/F, Flat B",18900000,-4%,864,21875,Kowloon Kowloon City District,7,B,1,,FALSE,FALSE,50
+180,3/3/2023,"Prosperous Garden, Block 1, 16/F, Flat A",8600000,--,606,14191,Kowloon Kowloon City District,,A,,1,FALSE,FALSE,16
+181,3/3/2023,"Chun Yee Building, 12/F, Flat D (No. 733 Rear)",4550000,--,553,8228,Kowloon Kowloon City District,,D,,,FALSE,FALSE,12
+182,3/3/2023,"H Bonaire, 26/F, Flat C",9180000,-6%,450,20400,Kowloon Kowloon City District,,C,,,FALSE,FALSE,26
+183,3/3/2023,"Whampoa Garden, Phase 5 Oak Mansions, Block 8, 16/F, Flat E",6570000,64%,503,13058,Kowloon Kowloon City District,,E,5,8,FALSE,FALSE,16
+184,3/3/2023,"Artisan Garden, 27/F, Flat B8",5400000,9%,283,19081,Kowloon Kowloon City District,,B,,,FALSE,FALSE,27
+185,3/3/2023,"Winston Mansion, 14/F, Flat C",6250000,--,612,10212,Kowloon Kowloon City District,,C,,,FALSE,FALSE,14
+186,3/3/2023,"Sunshine Building, 13/F, Flat C",5350000,49%,429,12471,Kowloon Kowloon City District,,C,,,FALSE,FALSE,13
+187,3/3/2023,"Metro Harbour View, Phase 2, Tower 10, 12/F, Flat H",5750000,145%,347,16571,Kowloon Kowloon City District,10,H,2,,FALSE,FALSE,12
+188,3/3/2023,"Comfort Centre, 22/F, Flat D",6000000,89%,375,16000,Kowloon Kowloon City District,,D,,,FALSE,FALSE,22
+189,3/3/2023,"Laguna Verde, Phase 1 Green Wood, Tower 2, 7/F, Flat H",15000000,117%,"1,100",13636,Kowloon Kowloon City District,2,H,1,,FALSE,FALSE,7
+190,3/3/2023,"Metro Harbour View, Phase 2, Tower 10, 9/F, Flat A",5720000,165%,390,14667,Kowloon Kowloon City District,10,A,2,,FALSE,FALSE,9
+191,3/3/2023,"Pano Harbour, Tower 8, 26/F, Flat A",53130000,--,"1,523",34882,Kowloon Kowloon City District,8,A,,,FALSE,FALSE,26
+192,3/3/2023,"Pano Harbour, Tower 8, 10/F, Flat B",43170000,--,"1,185",36433,Kowloon Kowloon City District,8,B,,,FALSE,FALSE,10
+193,3/3/2023,"Pano Harbour, Tower 8, 11/F, Flat B",40390000,--,"1,185",34084,Kowloon Kowloon City District,8,B,,,FALSE,FALSE,11
+194,3/3/2023,"Pano Harbour, Tower 8, 12/F, Flat B",43370000,--,"1,185",36596,Kowloon Kowloon City District,8,B,,,FALSE,FALSE,12
+195,3/3/2023,"Broadview Court, Block 1, 5/F, Flat G",6750000,--,576,11719,Kowloon Kowloon City District,,G,,1,FALSE,FALSE,5
+196,3/3/2023,"Broadview Court, Block 3, 39/F, Flat K",6280000,--,591,10626,Kowloon Kowloon City District,,K,,3,FALSE,FALSE,39
+197,3/3/2023,"Grand Waterfront, Tower 3, 47/F, Flat F",12000000,58%,805,14907,Kowloon Kowloon City District,3,F,,,FALSE,FALSE,47
+198,3/3/2023,"Harbour Green, Tower 1, 25/F, Flat C",10500000,76%,516,20349,Kowloon Kowloon City District,1,C,,,FALSE,FALSE,25
+199,3/3/2023,"The Quinn  Square Mile, Tower 2, 19/F, Flat H",6090000,--,265,22965,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,19
+200,3/3/2023,"Laguna Verde, Phase 3 Costa Del Sol, Tower 12A, 3/F, Flat E",13350000,125%,899,14850,Kowloon Kowloon City District,12,E,3,,FALSE,FALSE,3
+201,3/3/2023,"The Quinn  Square Mile, Tower 2, 23/F, Flat H",6330000,--,265,23897,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,23
+202,3/3/2023,"The Quinn  Square Mile, Tower 2, 22/F, Flat H",6300000,--,265,23787,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,22
+203,3/3/2023,"Cascades, Block 2, 3/F, Flat A",6320000,--,467,13533,Kowloon Kowloon City District,,A,,2,FALSE,FALSE,3
+204,3/3/2023,"Westland Heights, 5/F, Flat E",8500000,190%,640,13281,Kowloon Kowloon City District,,E,,,FALSE,FALSE,5
+205,3/3/2023,"Metro Harbour View, Phase 2, Tower 7, 26/F, Flat D",6370000,208%,367,17351,Kowloon Kowloon City District,7,D,2,,FALSE,FALSE,26
+206,3/3/2023,"The Metropolis Residence, Tower 1, 26/F, Flat 20",9300000,266%,464,20043,Kowloon Kowloon City District,1,20,,,FALSE,FALSE,26
+207,3/3/2023,"The Quinn  Square Mile, Tower 2, 12/F, Flat K",8790000,--,382,23019,Kowloon Kowloon City District,2,K,,,FALSE,FALSE,12
+208,2/3/2023,"The Henley, Phase 3 The Henley III, Tower 3A, Lower Floor, Flat F",13800,--,229,60,Kowloon Kowloon City District,3,F,3,,TRUE,FALSE,7
+209,2/3/2023,"Mantin Heights, Tower 5, Lower Floor, Flat C",11000000,--,587,18739,Kowloon Kowloon City District,5,C,,,FALSE,FALSE,7
+210,2/3/2023,"The Victoria Towers, Tower 3, Lower Floor, Flat A",9450000,--,457,20678,Kowloon Kowloon City District,3,A,,,FALSE,FALSE,7
+211,2/3/2023,"Regalia Bay, Phase 2",68000000,--,"2,781",24452,Kowloon Kowloon City District,,,2,,FALSE,FALSE,14.5
+212,2/3/2023,"Merry Court, Phase 2, Upper Floor, Flat 2H",17500,--,545,32,Kowloon Kowloon City District,,2,2,,TRUE,FALSE,22
+213,2/3/2023,"Monaco, Phase 1, Tower 2A, Lower Floor, Flat F",15000,--,354,42,Kowloon Kowloon City District,2,F,1,,TRUE,FALSE,7
+214,2/3/2023,"K Summit, Tower 2A, Middle Floor, Flat F",15000,--,325,46,Kowloon Kowloon City District,2,F,,,TRUE,FALSE,13
+215,2/3/2023,"Eltanin Square Mile, Tower 2, Lower Floor, Flat F",10500,--,198,53,Kowloon Kowloon City District,2,F,,,TRUE,FALSE,7
+216,2/3/2023,"City Hub, Middle Floor, Flat J",16000,--,368,43,Kowloon Kowloon City District,,J,,,TRUE,FALSE,13
+217,2/3/2023,"Sorrento, Phase 1, Block 5, 20/F, Flat G",18600000,269%,772,24093,Kowloon Kowloon City District,,G,1,5,FALSE,FALSE,20
+218,2/3/2023,"The Quinn  Square Mile, Tower 2, 16/F, Flat H",6070000,--,265,22895,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,16
+219,2/3/2023,"Lei Tung Estate, Tung Cheong House, 7/F, Flat 14",2750000,--,381,7218,Kowloon Kowloon City District,,14,,,FALSE,TRUE,7
+220,2/3/2023,"On Ning Building, 8/F, Flat B",3580000,-9%,249,14378,Kowloon Kowloon City District,,B,,,FALSE,FALSE,8
+221,2/3/2023,"Wing Fai Building, 7/F, Flat B",5000000,203%,552,9058,Kowloon Kowloon City District,,B,,,FALSE,FALSE,7
+223,2/3/2023,"Whampoa Garden, Phase 7 Cotton Tree Mansions, Block 4, 12/F, Flat A",11300000,7%,763,14810,Kowloon Kowloon City District,,A,7,4,FALSE,FALSE,12
+225,2/3/2023,"Whampoa Estate, Yuen Kwai Building (Block B), 5/F, Flat 8",5600000,--,442,12670,Kowloon Kowloon City District,,8,,B,FALSE,FALSE,5
+226,2/3/2023,"Hill Main Mansion, 8/F, Flat E",3250000,13%,480,6771,Kowloon Kowloon City District,,E,,,FALSE,FALSE,8
+227,2/3/2023,"Faerie Court, 19/F, Flat E",3700000,509%,252,14683,Kowloon Kowloon City District,,E,,,FALSE,FALSE,19
+229,2/3/2023,"Whampoa Garden, Phase 9 Lily Mansions, Block 5, 5/F, Flat E",12880000,46%,829,15537,Kowloon Kowloon City District,,E,9,5,FALSE,FALSE,5
+230,2/3/2023,"No. 8 Waterloo Road, Block 1, 36/F, Flat G",12300000,134%,581,21170,Kowloon Kowloon City District,,G,,1,FALSE,FALSE,36
+231,2/3/2023,"Larvotto, Tower 6, 37/F, Flat B",27100000,12%,"1,172",23123,Kowloon Kowloon City District,6,B,,,FALSE,FALSE,37
+233,2/3/2023,"Sham Wan Towers, Block 1, 19/F, Flat C",10380000,179%,581,17866,Kowloon Kowloon City District,,C,,1,FALSE,FALSE,19
+234,2/3/2023,"Sunshine Plaza, Block 3, 17/F, Flat F",5780000,1%,384,15052,Kowloon Kowloon City District,,F,,3,FALSE,FALSE,17
+235,2/3/2023,"Victoria Skye, Ocean Waves Tower 3, 3/F, Flat F",8200000,18%,438,18721,Kowloon Kowloon City District,3,F,,,FALSE,FALSE,3
+236,2/3/2023,"The Zumurud, Tower 2, 6/F, Flat A",29500000,-20%,"1,624",18165,Kowloon Kowloon City District,2,A,,,FALSE,FALSE,6
+237,2/3/2023,"Monaco One, Phase 2 Monaco Marine, Tower 1B, 25/F, Flat E",11350000,--,449,25274,Kowloon Kowloon City District,1,E,2,,FALSE,FALSE,25
+238,2/3/2023,"Wah Tak Building, 16/F, Flat 9B",1970000,--,189,10423,Kowloon Kowloon City District,,9,,,FALSE,FALSE,16
+239,2/3/2023,"Metro Harbour View, Phase 1, Tower 2, 42/F, Flat D",6350000,--,344,18459,Kowloon Kowloon City District,2,D,1,,FALSE,FALSE,42
+240,2/3/2023,"Celestial Heights, Phase 2, 19 Celestial Avenue, 57/F, No. 19",31000000,15%,"1,567",19783,Kowloon Kowloon City District,,,2,,FALSE,FALSE,57
+241,2/3/2023,"Grand Waterfront, Tower 6, 39/F, Flat E",12300000,104%,618,19903,Kowloon Kowloon City District,6,E,,,FALSE,FALSE,39
+242,2/3/2023,"South Horizons, Phase 2, Yee Wan Court (Block 15), 29/F, Flat E",16100000,--,863,18656,Kowloon Kowloon City District,,E,2,15,FALSE,FALSE,29
+243,2/3/2023,"The Quinn  Square Mile, Tower 1, 10/F, Flat A",9910000,--,447,22167,Kowloon Kowloon City District,1,A,,,FALSE,FALSE,10
+244,2/3/2023,"The Quinn  Square Mile, Tower 2, 12/F, Flat H",6100000,--,265,23035,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,12
+245,2/3/2023,"The Quinn  Square Mile, Tower 2, 7/F, Flat N",5870000,--,259,22661,Kowloon Kowloon City District,2,N,,,FALSE,FALSE,7
+248,2/3/2023,"One Kai Tak, II, Tower 5, 18/F, Flat C",7430000,14%,375,19813,Kowloon Kowloon City District,5,C,,,FALSE,FALSE,18
+249,2/3/2023,"The Waterfront, Phase 2, Tower 7, 27/F, Flat C",15000000,23%,630,23810,Kowloon Kowloon City District,7,C,2,,FALSE,FALSE,27
+250,2/3/2023,"Friends' House, Block A, 2/F, Flat A1",6000000,-3%,607,9885,Kowloon Kowloon City District,,A,,A,FALSE,FALSE,2
+251,2/3/2023,"Whampoa Garden, Phase 7 Cotton Tree Mansions, Block 3, 16/F, Flat A",8150000,17%,663,12293,Kowloon Kowloon City District,,A,7,3,FALSE,FALSE,16
+252,2/3/2023,"King's Park Villa, Block 1, 16/F, Flat C",17100000,35%,948,18038,Kowloon Kowloon City District,,C,,1,FALSE,FALSE,16
+253,2/3/2023,"The Quinn  Square Mile, Tower 2, 18/F, Flat H",6190000,--,265,23358,Kowloon Kowloon City District,2,H,,,FALSE,FALSE,18
+254,2/3/2023,"Jubilant Place, Tower 5, 4/F, Flat C",10380000,--,839,12372,Kowloon Kowloon City District,5,C,,,FALSE,FALSE,4
+255,2/3/2023,"Grandview Garden, Block B, 15/F, Flat C",5300000,159%,354,14972,Kowloon Kowloon City District,,C,,B,FALSE,FALSE,15
+256,2/3/2023,"Man Wah Building, 4/F, Flat 11(No.13)",5430000,5%,565,9611,Kowloon Kowloon City District,,11,,,FALSE,FALSE,4
+257,2/3/2023,"Pano Harbour, Tower 1, 8/F, Flat A",84560000,--,"2,088",40500,Kowloon Kowloon City District,1,A,,,FALSE,FALSE,8
+258,2/3/2023,"Pano Harbour, Tower 1, 8/F, Flat B",71430000,--,"1,870",38200,Kowloon Kowloon City District,1,B,,,FALSE,FALSE,8
+259,2/3/2023,"The Arch, Moon Tower (Block 2A), 8/F, Flat E",11500000,169%,395,29114,Kowloon Kowloon City District,,E,,2,FALSE,FALSE,8
+260,2/3/2023,"Hampton Place, Tower 2, 27/F, Flat C",7080000,128%,426,16620,Kowloon Kowloon City District,2,C,,,FALSE,FALSE,27
+261,2/3/2023,"Harbour Place, Tower 6, 10/F, Flat C",9480000,8%,590,16068,Kowloon Kowloon City District,6,C,,,FALSE,FALSE,10
+262,1/3/2023,"Larvotto, Tower 6, Middle Floor, Flat B",54000,--,"1,172",46,Kowloon Kowloon City District,6,B,,,TRUE,FALSE,13
+263,1/3/2023,"Aberdeen Centre, Kong Wing Court (Block I), Lower Floor, Flat 3",15000,--,448,33,Kowloon Kowloon City District,,3,,I,TRUE,FALSE,7
+264,1/3/2023,"Chi Fu Fa Yuen, Fu Yi Yuen (Block H-7), Upper Floor, Flat A",15000,--,439,34,Kowloon Kowloon City District,,A,,H,TRUE,FALSE,22
+265,1/3/2023,"Chi Fu Fa Yuen, Fu Chun Yuen (Block H-14), Lower Floor, Flat B",17500,--,588,30,Kowloon Kowloon City District,,B,,H,TRUE,FALSE,7
+266,1/3/2023,"Chi Fu Fa Yuen, Fu Cheong Yuen (Block H-16), Middle Floor, Flat E",13000,--,439,30,Kowloon Kowloon City District,,E,,H,TRUE,FALSE,13
+267,1/3/2023,"Chi Fu Fa Yuen, Fu Wing Yuen (Block H-19), Lower Floor, Flat E",14500,--,439,33,Kowloon Kowloon City District,,E,,H,TRUE,FALSE,7
+268,1/3/2023,"Chi Fu Fa Yuen, Fu Chak Yuen (Block H-18), Middle Floor, Flat D",14600,--,439,33,Kowloon Kowloon City District,,D,,H,TRUE,FALSE,13
+269,1/3/2023,"Chi Fu Fa Yuen, Fu Yar Yuen (Block H-12), Middle Floor, Flat B",20000,--,588,34,Kowloon Kowloon City District,,B,,H,TRUE,FALSE,13
+270,1/3/2023,"One Homantin, Tower 3, Upper Floor, Flat F",20000,--,491,41,Kowloon Kowloon City District,3,F,,,TRUE,FALSE,22
+271,1/3/2023,"Vibe Centro, Tower 2B, Lower Floor, Flat D",15200,--,306,50,Kowloon Kowloon City District,2,D,,,TRUE,FALSE,7
+272,1/3/2023,"The Southside, Phase 1 Southland, Tower 1 (1B), Lower Floor, Flat C",22000,--,475,46,Kowloon Kowloon City District,1,C,1,,TRUE,FALSE,7
+273,1/3/2023,"Larvotto, Tower 1, Upper Floor, Flat B",81000,--,"1,795",45,Kowloon Kowloon City District,1,B,,,TRUE,FALSE,22
+274,1/3/2023,"Monaco, Phase 1, Tower 2B, Upper Floor, Flat D",20000,--,437,46,Kowloon Kowloon City District,2,D,1,,TRUE,FALSE,22
+275,1/3/2023,"One Homantin, Tower 7, Upper Floor, Flat B",17350000,--,736,23573,Kowloon Kowloon City District,7,B,,,FALSE,FALSE,22
+276,1/3/2023,"Sorrento, Phase 1, Block 5, Middle Floor, Flat A",28000,--,620,45,Kowloon Kowloon City District,,A,1,5,TRUE,FALSE,13
+277,1/3/2023,"Carmen's Garden, Tower 1, Upper Floor, Flat B",43000,--,"1,057",41,Kowloon Kowloon City District,1,B,,,TRUE,FALSE,22
+278,1/3/2023,"St. George Apartments, Upper Floor, Flat D",78000,--,"1,976",39,Kowloon Kowloon City District,,D,,,TRUE,FALSE,22
+279,1/3/2023,"Ultima, Phase 1, Tower 6, Middle Floor, Flat B",47000,--,952,49,Kowloon Kowloon City District,6,B,1,,TRUE,FALSE,13
+280,1/3/2023,"One Beacon Hill, Phase 2, Tower 5, Middle Floor, Flat A",24680000,--,"1,008",24484,Kowloon Kowloon City District,5,A,2,,FALSE,FALSE,13
+281,1/3/2023,"One Silversea, Tower 1, Middle Floor, Flat B",50000,--,"1,206",41,Kowloon Kowloon City District,1,B,,,TRUE,FALSE,13
+282,1/3/2023,"Baguio Villa, Block 23, Upper Floor, Flat A",32000,--,906,35,Kowloon Kowloon City District,,A,,23,TRUE,FALSE,22
+283,1/3/2023,"South Walk Aura, Lower Floor, Flat B",9800,--,193,51,Kowloon Kowloon City District,,B,,,TRUE,FALSE,7
+284,1/3/2023,"Padek Palace, Lower Floor, Flat D",26000,--,675,39,Kowloon Kowloon City District,,D,,,TRUE,FALSE,7
+285,1/3/2023,"The Redhill Peninsula, Site D",101800000,--,"3,013",33787,Kowloon Kowloon City District,,,,,FALSE,FALSE,7
+286,1/3/2023,"Island Harbourview, Tower 1, Lower Floor, Flat C",25500,--,647,39,Kowloon Kowloon City District,1,C,,,TRUE,FALSE,7
+287,1/3/2023,"Island Harbourview, Tower 9, Upper Floor, Flat F",19500,--,460,42,Kowloon Kowloon City District,9,F,,,TRUE,FALSE,22
+288,1/3/2023,"Park Avenue, Central Park, Tower 3, Middle Floor, Flat E",26500,--,592,45,Kowloon Kowloon City District,3,E,,,TRUE,FALSE,13
+289,1/3/2023,"One Victoria, Tower 1A, Middle Floor, Flat A",16500,--,643,26,Kowloon Kowloon City District,1,A,,,TRUE,FALSE,13
+290,1/3/2023,"Harbour Place, Tower 2, Middle Floor, Flat A",17700,--,432,41,Kowloon Kowloon City District,2,A,,,TRUE,FALSE,13
+291,1/3/2023,"Aquila.Square Mile, Tower 1, Lower Floor, Flat E",14500,--,235,62,Kowloon Kowloon City District,1,E,,,TRUE,FALSE,7
+292,1/3/2023,"King's Park Villa, Block 7, Lower Floor, Flat C",38000,--,948,40,Kowloon Kowloon City District,,C,,7,TRUE,FALSE,7
+294,1/3/2023,"The Austin, Tower 5, Upper Floor, Flat C",38000,--,634,60,Kowloon Kowloon City District,5,C,,,TRUE,FALSE,22
+295,1/3/2023,"The Long Beach, Tower 5, Middle Floor, Flat E",23000,--,560,41,Kowloon Kowloon City District,5,E,,,TRUE,FALSE,13
+296,1/3/2023,"The Long Beach, Tower 2, Upper Floor, Flat C",32500,--,823,39,Kowloon Kowloon City District,2,C,,,TRUE,FALSE,22
+297,1/3/2023,"Monaco, Phase 1, Tower 2A, Middle Floor, Flat F",16000,--,354,45,Kowloon Kowloon City District,2,F,1,,TRUE,FALSE,13
+298,1/3/2023,"One Victoria, Tower 2B, Lower Floor, Flat J",14000,--,451,31,Kowloon Kowloon City District,2,J,,,TRUE,FALSE,7
+299,1/3/2023,"Metro Harbour View, Phase 1, Tower 4, Middle Floor, Flat F",18500,--,540,34,Kowloon Kowloon City District,4,F,1,,TRUE,FALSE,13
+300,1/3/2023,"Upper Riverbank, Tower 2, Middle Floor, Flat D",21000,--,557,38,Kowloon Kowloon City District,2,D,,,TRUE,FALSE,13
+301,1/3/2023,"Eltanin Square Mile, Tower 2, Lower Floor, Flat J",13300,--,249,53,Kowloon Kowloon City District,2,J,,,TRUE,FALSE,7
+302,1/3/2023,"Lung Cheung Building, Middle Floor, Flat C",19000,--,715,27,Kowloon Kowloon City District,,C,,,TRUE,FALSE,13
+303,1/3/2023,"Monaco, Phase 1, Tower 2B, Lower Floor, Flat G",17000,--,441,39,Kowloon Kowloon City District,2,G,1,,TRUE,FALSE,7
+304,1/3/2023,"The Austin, Tower 2A, Middle Floor, Flat B",29500,--,651,45,Kowloon Kowloon City District,2,B,,,TRUE,FALSE,13
+305,1/3/2023,"The Austin, Tower 1, Lower Floor, Flat E",20000,--,360,56,Kowloon Kowloon City District,1,E,,,TRUE,FALSE,7
+306,1/3/2023,"Vibe Centro, Tower 5, Lower Floor, Flat C7",49000,--,"1,119",44,Kowloon Kowloon City District,5,C,,,TRUE,FALSE,7
+307,1/3/2023,"Genius Court, Lower Floor, Flat D",15800,--,316,50,Kowloon Kowloon City District,,D,,,TRUE,FALSE,7
+308,1/3/2023,"The Bloomsville, Upper Floor, Flat A",36000,--,774,47,Kowloon Kowloon City District,,A,,,TRUE,FALSE,22
+309,1/3/2023,"Parc Palais, Tower 1, Lower Floor, Flat B",42000,--,"1,074",39,Kowloon Kowloon City District,1,B,,,TRUE,FALSE,7
+310,1/3/2023,"The Henley, Phase 1, Condominium A, Middle Floor, Flat C",16200,--,321,50,Kowloon Kowloon City District,,C,1,,TRUE,FALSE,13
+311,1/3/2023,"Chermain Heights, Block C, Middle Floor, Flat C3",30000,--,803,37,Kowloon Kowloon City District,,C,,C,TRUE,FALSE,13
+312,1/3/2023,"Pokfulam Gardens, Block 5, Upper Floor, Flat F",17800,--,456,39,Kowloon Kowloon City District,,F,,5,TRUE,FALSE,22
+313,1/3/2023,"South Horizons, Phase 3, Mei Hin Court (Block 23), Middle Floor, Flat D",15000,--,584,26,Kowloon Kowloon City District,,D,3,23,TRUE,FALSE,13
+314,1/3/2023,"Laguna Verde, Phase 3 Costa Del Sol, Tower 15A, Lower Floor, Flat D",38000,--,"1,124",34,Kowloon Kowloon City District,15,D,3,,TRUE,FALSE,7
